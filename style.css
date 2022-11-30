@@ -1,0 +1,25 @@
+/* Menu */
+.crumb {
+    display: inline-block;
+}
+.crumbs ol {
+    list-style-type: none;
+    padding-left: 0;
+}
+/* Home */
+section.info_personal {
+    display: flex;
+    flex-direction: row;
+    gap: 30px;
+}
+h1 {
+  margin-top: 0;
+}
+/* Contacto */
+.info_form {
+  max-width: 600px;
+}
+.form-example {
+  display: flex;
+  flex-direction: column;
+}
